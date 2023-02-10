@@ -2,6 +2,7 @@
 
 I'm a 20 years old   
 🎓 cs student from germany 
+Here are some of my projects
 <!--
 **JulianWer/JulianWer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
